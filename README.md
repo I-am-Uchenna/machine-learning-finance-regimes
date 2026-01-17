@@ -1,6 +1,6 @@
 # Machine Learning in Finance: Market Regime & Direction Prediction
 
-**Author:** Uchenna Splendor Ejike  
+**Author:** Uchenna Ejike  
 **Date:** January 2026
 
 ## Executive Summary
@@ -47,4 +47,4 @@ The project implements a rigorous quantitative pipeline:
 This project is for educational and research purposes only. It does not constitute financial advice.
 
 ---
-© 2026 Uchenna Splendor Ejike. All Rights Reserved.
+© 2026 Uchenna Ejike. All Rights Reserved.
