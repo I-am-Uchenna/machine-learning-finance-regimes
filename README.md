@@ -9,6 +9,15 @@ This project applies advanced machine learning techniques to financial time-seri
 
 Using a dataset of eight major ETFs (including SPY, TLT, GLD, and VNQ) spanning 2015–2024, the analysis evaluates the efficacy of **Linear Discriminant Analysis (LDA)**, **Support Vector Machines (SVM)**, and **Neural Networks (NN)**.
 
+## Problem Statement
+
+Financial time-series data is inherently stochastic, non-linear, and noisy, often rendering traditional linear statistical models insufficient for accurate forecasting. Portfolio strategists require more sophisticated methodologies to capture complex market dependencies.
+
+**The core challenge addresses three specific questions:**
+1.  **Complexity vs. Value:** Do advanced "black-box" models (Neural Networks, SVMs) offer statistically significant performance gains over simpler, interpretable models (LDA) in financial contexts?
+2.  **High-Dimensionality:** How can we effectively reduce noise in a dataset containing dozens of correlated technical indicators?
+3.  **Best Practices:** What is the optimal framework for applying these advanced algorithms to time-series data to minimize overfitting while maximizing predictive power?
+
 ## Key Objectives
 
 1.  **Binary Classification:** Predict whether the market closes higher or lower on the next trading day.
