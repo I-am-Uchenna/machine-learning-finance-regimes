@@ -1,0 +1,10 @@
+# Data files
+*.csv
+*.xlsx
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+__pycache__/
